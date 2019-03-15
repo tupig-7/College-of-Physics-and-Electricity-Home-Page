@@ -1,0 +1,267 @@
+body {
+	background-color: white;
+}
+/*学院名样式*/
+#school-name {
+	font: "楷体";
+	font-size: 24px;
+	font-weight: 800;
+	color: white;
+}
+/*设置导航栏背景*/
+.navbar-default {
+	width: 100%;
+	background-color: lightskyblue;
+	border-radius: 10px;
+}
+/*设置鼠标移动到链接的变化*/
+.dropdown-menu li>a:hover {
+	background-color: lightblue;
+	color: black;
+}
+.col-xs-9 a{
+	color: darksalmon;
+}
+.nav a.focus{
+	color: lightgrey;
+	font-size: 16px;
+}
+.main-header{
+	background-image: url(../img/star.jpg);
+}
+#logina:visited{
+	color:#000000;
+}
+.col-xs-3 a:hover{
+	color: lightsalmon;
+}
+.col-xs-3{
+  text-align:center;
+}
+.col-xs-2{
+  text-align:center;
+}
+.col-xs-3 a {
+	width: 250px;
+}
+/*设置下落图片格式*/
+#sakura {
+	width:50px;
+    height:50px;
+    margin-top:-5%;
+    opacity: 0.5;
+    position: absolute;
+    z-index: 1;
+}
+/*设置轮播图图片大小和格式*/
+#myCarousel{
+	margin: 0px 200px 100px 200px;
+}
+#myCarousel img{
+	height: 500px;
+	width: 1000px;
+}
+.navbar{
+	margin: 0px 0px 0px 0px;
+}
+/*
+ * 设置学院概况的样式
+ */
+/****************/
+/*院长寄语字体*/
+.title {
+	font-family: 楷体;
+	font-size: 32px;
+}
+#remarks1 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#remarks2 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#remarks3 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#remarks4 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#remarks5 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#remarks6 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+/*学院简介*/
+#introduce1 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#introduce2 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#introduce3 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#introduce4 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#introduce5 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+#introduce6 {
+	margin: 0 auto;
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+/*现任领导表格*/
+table {
+	text-align: center;
+	font: "微软雅黑";
+	font-size: 16px;
+}
+th {
+	text-align: center;
+}
+td {
+	width: 330px;
+}
+/*教学名师图片*/
+#masters img {
+	width: 258px;
+	height: 300px;
+}
+hr {
+	height:1px;
+	border:none;
+	border-top:1px 
+	dashed #1E90FF;
+}
+/*定义二级菜单样式*/
+.secondmenu a {
+	font-size: 10px;
+	color: #4A515B;
+	text-align: center;
+}
+/*定义左侧导航栏背景*/
+.col-xs-3 {
+	margin-top: 50px;
+	background-color: darkgray;
+	height: 800px;
+}
+#poet {
+	width: 800px;
+	background-color: lightgreen;
+	margin-top: 10px;
+	font-family: 楷体;
+	font-size: 20px;
+	text-align: left;
+	text-indent: 2em;
+}
+/*为了使底部div看上去固定在最底下，设置div高度*/
+#music {
+	height: 400px;
+}
+#contact-me {
+	height: 400px;
+}
+/*回到顶部CSS*/
+p#back-to-top{
+  position:fixed;
+  display:none;
+  bottom:20px;
+  right:40px;
+            
+}
+#copyright {
+  background-color: #080808;
+  height: 100px;
+  color: #524f4f;
+  text-align: center;
+  font-size: 10px;
+  padding-top: 6px;
+}
+/*设置左侧导航栏按钮宽度*/
+.col-xs-3 li {
+	width: 100%;
+}
